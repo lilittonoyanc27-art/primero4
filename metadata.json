@@ -1,0 +1,6 @@
+{
+  "name": "Categorías Gramaticales — Քերականական Կարգեր",
+  "description": "Práctica interactiva de categorías gramaticales en español y armenio para 7º grado / 1º ESO con traducciones al clic y respuestas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
